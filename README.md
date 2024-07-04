@@ -1,6 +1,6 @@
 
 
-### *Atualmente se esforçando para me tornar um Cientista de Dados. Curioso sobre programação e as infinitas possibilidades de automatização.*
+### *Atualmente se esforçando para me tornar um Cientista de Dados. Curioso sobre programação e as infinitas possibilidades de automação.*
 
 - 📚 Apaixonado por livros.
 - 🖥️ Atualmente mais focado em:
